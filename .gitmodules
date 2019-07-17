@@ -1,0 +1,6 @@
+[submodule "phone_service"]
+	path = phone_service
+	url = https://github.com/society-for-the-blind/access_news_phone_service.git
+[submodule "web_service"]
+	path = web_service
+	url = https://github.com/society-for-the-blind/access_news_web_service.git
